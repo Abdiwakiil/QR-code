@@ -1,2 +1,17 @@
-# QR-code
-QR code project
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code</title>
+    <link rel="stylesheet" href="qrstyle.css">
+</head>
+<body>
+    <div class="container">
+        <img src="./images/image-qr-code.png" alt="">
+        <h1>Improve your front-end <br> skills by building projects</h1>
+        <p>Scan the QR code to visit Frontend <br> and take your coding skills to <br> the next level</p>
+    </div>
+</body>
+</html>
